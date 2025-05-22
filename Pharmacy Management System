@@ -1,0 +1,3 @@
+Designed and implemented a relational database system to manage pharmacy operations, including prescriptions, insurance, orders, invoicing, and payments, supporting multi-user access and data security.
+Utilized MySQL, Draw.io, and SQL queries to create 11+ normalized tables, build an ER diagram, enforce business rules, and perform statistical data analysis (e.g., average order quantity, inventory levels).
+Processed over 1,000,000 records with real-time transaction support and role-based access control; enabled analysis of pharmacy performance, customer behavior, and medication trends across 10+ queries and reports.
